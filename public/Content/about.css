@@ -1,0 +1,25 @@
+.containerk {
+  max-width: 700px;
+  margin: 20px auto;
+  text-align: center;
+  background-color: rgb(194, 161, 223);
+  padding: 50px;
+  border-radius: 10px;
+}
+.profile-picture {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  margin: 0 auto;
+  display: block;
+}
+h1.habout {
+  font-size: 2em;
+  margin: 1em 0 0.5em;
+  color: #333;
+}
+p.about {
+  font-size: 1.2em;
+  margin: 0.5em 0;
+  color: #555;
+}

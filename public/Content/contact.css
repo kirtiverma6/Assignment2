@@ -1,0 +1,39 @@
+.containerc {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+    background-color: white;
+    padding: 50px;
+    border-radius: 10px;
+  }
+  h1.cheader {
+    font-size: 2em;
+    margin: 1em 0 0.5em;
+    color: #333;
+  }
+  form {
+    margin: 2em 0;
+  }
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 1.2em;
+  }
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-size: 1.2em;
+    cursor: pointer;
+  }
+  input[type="submit"]:hover {
+    background-color: #555;
+  }
